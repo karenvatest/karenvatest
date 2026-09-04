@@ -10,7 +10,8 @@
 ### ⛓️‍💥 Habilidades:
 - **Frameworks**: Playwright, Selenium, Cypress
 - **Lenguajes**: JavaScript, TypeScript, Python
-- **Herramientas**: Git, GitHub & GitHub Actions, Postman, VS Code, SQL
+- **Herramientas**: Git, GitHub & GitHub Actions, Postman, VS Code, SQL, Appium
+- Ejemplo
 
 ### 🚀 Proyectos destacados:
 - Cypress Automation Framework: [https://github.com/karenvatest/cypress-qa-practica]
