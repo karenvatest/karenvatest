@@ -1,6 +1,6 @@
 # Hola, Soy Karen Valdez 👋
 
-## 🤖 QA Automation Enginner
+## 🤖 QA Automation Engineer
 
 ## 👩‍💻 Sobre mí:
 - Apasionada por la automatizacion de las pruebas
